@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@crud.com",
+      "password": "1234",
+      "role": "admin"
+    },
+    {
+      "id": "ee47",
+      "email": "muxter320@gmail.com",
+      "password": "4321",
+      "role": "user"
+    }
+  ],
+  "tasks": []
+}
