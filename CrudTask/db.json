@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Admin",
       "email": "admin@crud.com",
       "password": "1234",
@@ -11,6 +11,12 @@
       "id": "ee47",
       "email": "muxter320@gmail.com",
       "password": "4321",
+      "role": "user"
+    },
+    {
+      "id": "faca",
+      "email": "angela@riwi.io",
+      "password": "123456",
       "role": "user"
     }
   ],
